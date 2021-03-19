@@ -10,6 +10,7 @@ __pycache__/
 .Python
 .DS_Store
 .azure
+data
 build/
 develop-eggs/
 dist/
