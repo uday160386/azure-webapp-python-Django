@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 .DS_Store
+.azure
 build/
 develop-eggs/
 dist/
